@@ -1,5 +1,20 @@
 # lalamove-assesment
 Lalamove SQL Assesment
+
+# BigQuery Code:
+## Part1-a
+https://console.cloud.google.com/bigquery?sq=1067343833426:7c8f9566a3944d7e8c087125ed0dc160
+## Part1-b
+https://console.cloud.google.com/bigquery?sq=1067343833426:d05a344e760f4374ab91d796664313c4
+## Part1-c
+https://console.cloud.google.com/bigquery?sq=1067343833426:5c4005824647459b949024356bd1917e
+## Part1-d
+https://console.cloud.google.com/bigquery?sq=1067343833426:1304ace82ae6463cbd21c5fae5c4cdd3
+## Part1-e
+https://console.cloud.google.com/bigquery?sq=1067343833426:27e5af6592194c269d8ab3a1a090683a
+## Part2
+https://console.cloud.google.com/bigquery?sq=1067343833426:672af62f4a2b491ebb0c25d4cbaf0494
+
 # Question:
 Part (1)
 There are two sample tables in this small test, one table called "vanorder" and one table called "vaninterest".
